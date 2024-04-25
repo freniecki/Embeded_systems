@@ -1,0 +1,26 @@
+Systemy Wbudowane 2024
+Grupa G12
+Czwartek, tygodnie parzyste
+----------------------------------
+Franciszek Reniecki - lider
+Hubert Szymański
+Nikodem Wojtczak
+----------------------------------
+Projekt: 
+Analizator fali dźwiękowej przy użyciu transformaty Fouriera
+i otwarzacz dźwięku o zadanej częstotliwości.
+----------------------------------
+płytka: LPC 2138 A
+----------------------------------
+1. mikrofon - ADC
+2. przycisk - 
+3. wyświetlacz - 
+4. SPI - interfejs do wyświetlacza
+5. timer - synchronizacja biegu procesów
+6. diody - zakres poprawności
+7. I2C - interfejs do diod
+8. odtwarzacz - DAC
+---------------------------------
+chechpoint:
+- zaplanowanie interfesju użytkownika: wyświetlacz + diody
+- obrazowanie amplitudy dźwięku na ekranie

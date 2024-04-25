@@ -1,0 +1,10 @@
+grupa G12
+Reniecki, Szymański, Wojtczak
+
+1# interfejs użytkownika: 
+-słupki kolumnowe z 1s próbkowania amplitudy, 
+-ilość diod zapalonych oznaczająca głośność
+
+2# obrazowanie amplitudy:
+tymczasowo w formie liczby z zakresu 0-511
+
